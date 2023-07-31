@@ -1,8 +1,8 @@
 package casdoor
 
 import (
+	"github.com/atom-providers/cert"
 	"github.com/casdoor/casdoor-go-sdk/casdoorsdk"
-	"github.com/rogeecn/atom-addons/providers/cert"
 	"github.com/rogeecn/atom/container"
 	"github.com/rogeecn/atom/utils/opt"
 )
