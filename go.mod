@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/atom-providers/cert v0.0.0-20230731084601-0ed09233960b
 	github.com/casdoor/casdoor-go-sdk v0.23.2
-	github.com/rogeecn/atom v1.0.4
+	github.com/rogeecn/atom v1.0.6
 )
 
 require (
